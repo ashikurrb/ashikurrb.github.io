@@ -14,7 +14,7 @@
     top: 0%;
     background-color: #26293A;
     position: sticky;
-    z-index: 2;
+    z-index: 1;;
 }
 
 .about-container{
@@ -27,6 +27,10 @@
 
 .redtype{
     background-color: #FF9080;
+}
+
+.redtype:hover{
+    color: black!important;
 }
 
 .redtype-color{
@@ -42,4 +46,30 @@
 
 .project-container{
 background-color: #20A8E4;
+}
+
+.form-container{
+    background-color: #464D5E;
+}
+
+.inner-form{
+    background-color: #50586E;
+}
+
+.footer{
+    background-color: #20A7E3;
+}
+
+.fcircle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+.fcircle:hover{
+    background-color: #50586E;
 }

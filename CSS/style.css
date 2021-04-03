@@ -23,7 +23,7 @@
 
 .education-container{
     background-color: #EEEEEE;
-}
+    box-shadow: inset 0px 0px 24px 8px rgba(128, 0, 0, 1);}
 
 .redtype{
     background-color: #FF9080;

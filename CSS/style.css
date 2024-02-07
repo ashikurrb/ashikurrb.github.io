@@ -163,3 +163,6 @@ background-blend-mode: multiply;
     border-bottom: 3px solid transparent;
     border-top: 3px solid #79A70A;
   }
+  html {
+    scroll-behavior: smooth;
+}
